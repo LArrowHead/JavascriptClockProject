@@ -1,11 +1,11 @@
-			/* Customizable font and colors */
-			html {
-				background: #11111;
-				text-align: center;
-				font-size: 45px;
-			}
-			#clocktext {
-				font-family: sans-serif, cursive;
-				font-weight: bold;
-				color: #99911;
-			}
+/* Customizable font and colors */
+html {
+  background: #8F3232;
+  text-align: center;
+  font-size: 45px;
+}
+#clocktext {
+  font-family: sans-serif, cursive;
+  font-weight: bold;
+  color: #31314D;
+}
